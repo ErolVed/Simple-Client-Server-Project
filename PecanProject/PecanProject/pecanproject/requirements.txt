@@ -1,0 +1,4 @@
+pexpect
+paramiko
+sqlalchemy
+pecan
